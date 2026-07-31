@@ -72,7 +72,7 @@ askmydocs/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/askmydocs.git
+git clone https://github.com/DaniyalJutt/PDF-Brain-Intelligent-Q-A-with-Gemma-Groq-API.git
 cd askmydocs
 ```
 
